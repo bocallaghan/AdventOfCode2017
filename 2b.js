@@ -1,10 +1,10 @@
 (function () {
     "use strict";
     /*
-     * 2a.js
+     * 2b.js
      * @Author: Brenton O'Callaghan
      * @Date: 6th December 2017
-     * @Description: Challenge 2a of the Advent of Code challenge 2017
+     * @Description: Challenge 2b of the Advent of Code challenge 2017
      */
 
     /*global console, require*/
