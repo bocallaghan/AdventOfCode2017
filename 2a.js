@@ -63,7 +63,7 @@
             return result;
         };
 
-    common.logBanner("1b");
+    common.logBanner("2a");
     common.runTestSuite(getSpreadsheetChecksum, [testInputs], testOutputs);
 
     // If all tests are passed then run the program
